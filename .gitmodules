@@ -1,0 +1,3 @@
+[submodule "lib/dbpp"]
+	path = lib/dbpp
+	url = https://github.com/lotricekCZ/dbpp.git

@@ -87,16 +87,16 @@
   <dia:layer name="Pozadí" visible="true" connectable="true" active="true">
     <dia:object type="UML - LargePackage" version="0" id="O0">
       <dia:attribute name="obj_pos">
-        <dia:point val="9.10338,-2.25014"/>
+        <dia:point val="9.11136,-2.21159"/>
       </dia:attribute>
       <dia:attribute name="obj_bb">
-        <dia:rectangle val="9.05338,-3.30014;53.6892,26.3408"/>
+        <dia:rectangle val="9.06136,-3.26159;53.6971,26.3794"/>
       </dia:attribute>
       <dia:attribute name="meta">
         <dia:composite type="dict"/>
       </dia:attribute>
       <dia:attribute name="elem_corner">
-        <dia:point val="9.10338,-2.25014"/>
+        <dia:point val="9.11136,-2.21159"/>
       </dia:attribute>
       <dia:attribute name="elem_width">
         <dia:real val="44.535784194927245"/>
@@ -419,13 +419,13 @@
     </dia:object>
     <dia:object type="UML - Class" version="0" id="O2">
       <dia:attribute name="obj_pos">
-        <dia:point val="28.7,0.015"/>
+        <dia:point val="27.7665,0.125019"/>
       </dia:attribute>
       <dia:attribute name="obj_bb">
-        <dia:rectangle val="28.65,-0.035;41.9425,4.365"/>
+        <dia:rectangle val="27.7165,0.0750192;41.009,4.47502"/>
       </dia:attribute>
       <dia:attribute name="elem_corner">
-        <dia:point val="28.7,0.015"/>
+        <dia:point val="27.7665,0.125019"/>
       </dia:attribute>
       <dia:attribute name="elem_width">
         <dia:real val="13.192499999999999"/>
@@ -645,13 +645,13 @@
     </dia:object>
     <dia:object type="UML - Class" version="0" id="O4">
       <dia:attribute name="obj_pos">
-        <dia:point val="10.7818,12.8115"/>
+        <dia:point val="11.283,12.8115"/>
       </dia:attribute>
       <dia:attribute name="obj_bb">
-        <dia:rectangle val="10.7318,12.7615;24.5268,17.1615"/>
+        <dia:rectangle val="11.233,12.7615;25.028,17.1615"/>
       </dia:attribute>
       <dia:attribute name="elem_corner">
-        <dia:point val="10.7818,12.8115"/>
+        <dia:point val="11.283,12.8115"/>
       </dia:attribute>
       <dia:attribute name="elem_width">
         <dia:real val="13.694999999999999"/>
